@@ -195,7 +195,7 @@ data  key
 3. Download, extract and compile the source code of badger v1: https://github.com/dgraph-io/badger/archive/refs/tags/v1.6.2.tar.gz
 
 ```sh
-❯ tar xvzf badger-1.6.2.tar
+❯ tar xvzf badger-1.6.2.tar.gz
 ❯ cd badger-1.6.2/badger/
 ❯ go install
 ```
@@ -225,7 +225,7 @@ This will create a badger.bak file in the current directory.
 5. Download, extract and compile the source code of badger v3: https://github.com/dgraph-io/badger/archive/refs/tags/v3.2103.0.tar.gz
 
 ```sh
-❯ tar xvzf badger-3.2103.0.tar
+❯ tar xvzf badger-3.2103.0.tar.gz
 ❯ cd badger-3.2103.0/badger/
 ❯ go install
 ```
